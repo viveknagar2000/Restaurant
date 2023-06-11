@@ -1,0 +1,675 @@
+.vivek{ 	     
+			background-image: url("../img/hero-bg.jpg"); 
+			background-repeat:round;
+			background-color:rgba(0,0,0,0.5);
+			background-blend-mode:darken;
+			width:100%;
+			height:750px;
+			padding-top : 30px ;
+
+		}
+
+
+.vivek b{   color : gold ; 
+
+		}
+
+
+.vivek table{  
+			height : 50px ;
+			background-color:rgba(0,0,0,0.5);
+			background-blend-mode:darken;color:white; 
+			
+		  }
+
+
+
+
+
+
+.select{ 	border:0px solid black;
+		background-color:rgba(0,0,0,0);
+		background-blend-mode:darken;color:white;
+		
+		}
+
+
+
+.first-button{ 	border:2px solid yellow;
+				border:05px 10px 05px 20px;
+				background-color:black;color:white;
+				border-radius: 25px 25px 25px 25px;
+		}
+
+
+
+
+
+
+.first p{			color:white;
+				font-size:22px;
+
+	    }
+
+
+
+
+
+
+.first h1{		padding-left:140px;	
+				font-size:40px;
+				color:white;
+
+		}
+
+
+
+
+
+.second-button{ 	border:2px solid yellow;
+				background-color:rgba(0,0,0,0);
+				background-blend-mode:darken;color:white;
+				border-radius: 25px 25px 25px 25px;
+	    	   		padding:05px 15px 05px 15px;
+             }
+
+
+
+
+.third-button{ 	border:2px solid yellow;
+				background-color:rgba(0,0,0,0);
+				background-blend-mode:darken;color:white;
+				border-radius: 25px 25px 25px 25px;
+	    	   		padding:05px 15px 05px 15px;
+             }
+
+
+
+
+
+/*--------------------------next-div1----------------------*/
+
+
+
+
+
+
+
+
+.viv{   padding-top : 50px ;
+	   background-image: url("../img/about-bg.jpg") ; 
+	   background-repeat: round;
+	   background-color:rgba(0,0,0,0.7);
+	   background-blend-mode:darken;
+	   height : 500px;
+	   color : grey;
+	   width:100% ;
+
+
+}
+
+
+
+
+
+.A img{	border : 2px solid grey;
+	height : 380px ;
+	width  : 530px ; 
+	 
+	
+
+
+} 
+
+
+
+.viv table{	margin : 50px 0px 0px 100px ; 
+			width : 1250px ; }
+
+
+
+
+/*---------------------------next-div2--------------*/
+
+
+
+.moni{	background-color :black ;
+		color : white ;
+		padding : 30px 30px 50px ;
+	}
+
+.pagal{	margin-left : 100px ; 
+	}
+
+.als{		margin-left : 100px ; }
+
+
+.moni div h1{	color : gold ; 
+	   
+	}
+
+
+.moni p{		color : grey ;
+			
+
+	  }
+
+
+
+.one{		background-color : #222211 ;
+		padding : 10px 20px 40px ;
+		margin : 0px 15px 0px ;
+	}
+
+
+.two{		background-color : #222211 ;
+		padding : 10px 20px 40px ;
+		margin : 0px 15px 0px ;
+	}
+
+
+.three{	background-color : #222211 ;
+		padding : 10px 20px 40px ;
+		margin : 0px 15px 0px ;
+	}
+
+
+
+
+
+/*---------------------------------next-div-4-------------------*/
+
+
+
+
+
+
+
+
+
+.menu{		background-color : #222211 ;
+			color : white ;
+			 padding : 30px 150px 50px ;
+	 }
+
+
+.menu b{		color : gold ;
+
+	  }
+
+
+
+
+
+
+.menu p{		color : grey ;
+			font-size : 16px ; 
+
+	  }
+
+
+.menu img{		width : 75px ;
+				height : 75px ;
+				border-radius : 50% ; 
+				border : 5px solid grey ;
+		}
+
+
+
+
+
+
+
+/*-------------------------specials--------------------*/
+
+
+
+
+
+
+
+.D{		background-color : black ; color : white ;
+		padding : 30px 120px 100px 120px ;}
+
+
+.D p{  color : grey ; 
+
+	}
+
+.D h1{  color : gold ; 
+
+	}
+
+
+.modi{	background-color : gold ;
+	 	color : black ;
+		 
+
+	}
+
+
+.bor{	border-left : 2px solid gold ; 
+		padding-left : 20px ;
+	}
+
+
+
+.D table b{ 	padding-left : 20px ;
+
+		}
+
+
+
+
+
+
+/*-------------------EVENT---------------------------------------------------------*/
+
+
+
+
+
+.event{		background-image: url("../img/events-bg.jpg");
+			background-color:rgba(0,0,0,0.6);
+	   		background-blend-mode:darken;
+			background-repeat : round ;
+			width : 100% ;
+			height : 550px ;
+			padding-top : 35px ;
+			padding-bottom : 50px ;
+			color : white ;
+}
+
+
+
+.event table{	padding : 0px 100px 80px 100px ; 
+
+		}
+
+
+
+.event h1{		color : gold ; 
+
+	   }
+
+.event h2{		color : gold ;
+	
+	   }
+
+.event p{		color : grey ; 
+
+	  }
+
+
+
+
+
+
+/*--------------------------------------------reservation--------------------------------------*/
+
+
+
+
+.reserve{		background-color : #0d0d0d ;
+			
+			padding : 30px 150px 05px ;
+	  }
+
+
+
+.reserve p{		color : grey ; 
+
+	    }
+
+
+
+.reserve h1{	color : gold ; 
+
+		}
+
+
+
+.reserve form input{ 	background-color : #0d0d0d ;
+					
+	   				
+					width :362px ; 
+					height : 30px ;
+					border : 1px solid gold ;
+				
+		}
+
+.reserve form textarea{ 	background-color : #0d0d0d ;
+					color : grey ; 
+					border : 1px solid gold ;
+				
+		}
+
+
+
+.reserve form button{	background-color : gold ; 
+					color : white ;
+					margin : 0px 500px 25px ;
+					border-radius : 25px 25px 25px 25px; 
+					padding : 05px 15px 05px ;
+			   }
+
+
+
+
+
+
+/*---------------------testmonials----------------------------------------*/
+
+
+
+.test{	background-color :black ;
+		color : white ;
+		padding : 30px 30px 140px ;
+	}
+
+.TESTMONIALS{		margin-left : 135px ; }
+
+
+
+
+.test h1{		color : gold ; 
+		
+		}
+
+
+
+.test p{		color : grey ;
+			
+
+	  }
+
+
+
+.monials{		width: 85% ;
+			height : 200px ;
+			margin-left : 120px ; 
+		}
+
+
+
+
+.testone{		height : 130px ;
+			background-color : #222211 ;
+			padding : 10px 20px 40px ;
+			margin : 0px 15px 0px ;
+	}
+
+
+.testtwo{		height : 130px ;
+			background-color : #222211 ;
+			padding : 10px 20px 40px ;
+			margin : 0px 15px 0px ;
+	}
+
+
+.testthree{	height : 130px ;
+			background-color : #222211 ;
+			padding : 10px 20px 40px ;
+			margin : 0px 15px 0px ;
+	}
+
+
+
+.test b{		color : gold ;
+
+	  }
+
+
+
+
+.test img{		width : 75px ;
+				height : 75px ;
+				border-radius : 50% ; 
+				border : 5px solid grey ;
+		}
+
+
+
+
+/*--------------------------------------photos----------------------------*/
+
+
+.photos{		background-color : black ;
+			padding : 30px 0px 20px 0px ;
+	 }
+
+
+
+.photos div{	margin-left : 140px ; }
+
+
+
+.photos p{	color : grey ; }
+
+
+
+.photos h1{	color : gold ; }
+
+
+
+
+
+
+.photos img{		
+				height : 270px ;
+				width  : 360px ;
+				
+		}	
+
+
+
+
+
+/*--------------------------CHEFS-----------------------------------*/
+
+
+
+
+
+.chefs{		background-color : black ;
+			padding : 30px 0px 40px 0px ;
+	 }
+
+
+
+.chefs div{	margin-left : 140px ; }
+
+
+
+.chefs p{	color : grey ; }
+
+
+
+.chefs h1{	color : gold ; }
+
+.chefs table{ 	
+			width : 100% ;
+			height : 250px ;
+			padding-left: 140px ;
+			padding-right: 140px ;
+			align : center ;
+			
+			}
+
+
+.chefs img{	padding: 0px 15px 0px 0px  ;
+			width : 355px ; 
+			height : 320px ; }
+
+
+
+
+
+
+/*-----------------------------contact--------------------------------*/
+
+
+
+
+.contact{		background-color : black ;
+			padding : 20px 0px 0px 0px ;
+			color : white ;
+	 }
+
+
+
+.contact div{		padding-left : 120px ; }
+
+
+.contact p{	color : grey ; }
+
+
+.contact h1{	color : gold ; }
+
+
+.contact table{	padding : 40px 20px 0px 20px ; }
+
+
+
+.contact form input{ 	background-color : black ;
+					width :370px ;
+					height : 30px ; 
+					border : 1px solid gold ;
+				
+		}	
+
+.contact form textarea{ 	background-color : black ;
+					color : grey ;
+					border : 1px solid gold ;
+				
+		}
+
+
+.contact form button{	background-color : gold ; 
+					color : white ;
+					margin : 0px 300px 25px ;
+					border-radius : 25px 25px 25px 25px; 
+					padding : 10px 20px 10px ;
+					align : center ;
+			   }
+ 
+
+.tdone img{		width : 50px ;
+				height : 50px ;
+				border-radius : 50% ; 
+				margin : 0px 05px 20px 0px ;
+				align : left ;
+		}
+
+.tdone{		width : 350px ;
+			 }
+
+
+.tdtwo{	margin-left : -50px ; }
+
+
+
+
+
+
+
+/*-----------------------------ABOUT--------------------------------*/
+
+
+
+.about{		padding : 0px 0px 40px 0px ;
+			border : 1px solid #c68a53 ;
+			border-right : 2px ;
+			border-left : 2px ;
+			background-color : #0d0d0d ;
+			color : white ; }
+
+
+
+.about ul{	margin-left : -35px ; }
+
+.about i{		color : gold ; }
+
+
+.aboutone{  	margin : 20px 0px 0px 130px ; }
+
+
+
+.abouttwo{  	margin : 20px 0px 0px 0px ; }
+
+
+
+.aboutthree{  	margin : 20px 0px 0px 30px ; }
+
+
+.aboutfour{ 	
+			border-radius : 25px 25px 25px 25px;
+			padding : 0px 0px 0px 280px ;  
+			background-color : #222211 ; 
+			border : 0.5px solid #c68a53 ;
+			color  : white ;
+			width : 100px;
+		 }
+
+
+
+.aboutfour button{		background-color : gold ;
+					border : 1px solid yellow ;
+					border-radius : 25px 25px 25px 25px;
+					padding : 07px 20px 07px 20px ; 
+					
+				}
+
+
+
+
+
+/*-----------------------------end--------------------------------*/
+
+
+
+
+.end{		background-color : black ;
+			padding : 20px 0px 20px 0px ;
+			color : white ; }
+
+
+
+.end h3{		font-size : 13px ; }
+
+
+
+.end i{		color : gold ;  }
+
+
+.end p{		font-size : 13px ; }
+
+
+
+
+
+
+/*-----------------------------THANK-YOU--------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
